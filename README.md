@@ -9,6 +9,7 @@ I have a discord account in case anyone wanna message me. The name's... also Min
 - Roblox. Second place in my fav games.
 - JavaScript. It was the first programming language I ever learnt!
 - HTML & CSS. With JS, they make a perfect trio!
+- Python. It's such a simple language!
 - Incremental Mass Rewritten. It's my favorite incremental game!
 
 ## My repos!
