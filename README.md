@@ -14,6 +14,8 @@ I have a discord account in case anyone wanna message me. The name's... also Min
 
 ## My repos!
 - Card Incremental. My incremental game!
+- Fibonacci. An old code piece!
+- Comic Haven. **The only** place you can see my comics! The art may be a bit horrible but alright.
 
 <!---
 MinecraftFan69420/MinecraftFan69420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
